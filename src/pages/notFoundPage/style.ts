@@ -42,7 +42,7 @@ const styles = {
     width: 250px;
     height: 30px;
 
-    margin: 20px;
+    margin-top: 100px;
   `,
 };
 

@@ -14,7 +14,6 @@ import SearchPage from '@/pages/searchPage/searchPage';
 import MyProfilePage from '@/pages/myProfilePage/myProfilePage';
 import UploadPage from '@/pages/uploadPage/uploadPage';
 import HashtagPage from '@pages/hashtagPage/hashtagPage';
-import KakaoLoginPage from './pages/kakaoLoginPage/kakaoLoginPage';
 import CompleteSigninPage from './pages/completeSigninPage/CompleteSigninPage';
 import CompleteChangePasswordPage from './pages/completeChangePasswordPage/CompleteChangePasswordPage';
 import KakaoLoginPage from '@/pages/kakaoLoginPage/kakaoLoginPage';

@@ -21,19 +21,11 @@ const NotFoundPage: React.FC = () => {
               입력하신 페이지의 주소를 다시 한번 확인해주세요.
             </styles.Text>
             <styles.LinkContainer>
-              <styles.Link to="/">메인 페이지로 돌아가기</styles.Link>
+              <styles.Link to="/">메인 페이지로 </styles.Link>
             </styles.LinkContainer>
           </div>
         </styles.Right>
       </styles.Container>
-
-      {/* 무료 아이콘 출처 표시 */}
-      <a
-        href="https://www.flaticon.com/kr/free-icons/404-"
-        title="404 오류 아이콘"
-      >
-        404 오류 아이콘 제작자: Freepik - Flaticon
-      </a>
     </>
   );
 };
