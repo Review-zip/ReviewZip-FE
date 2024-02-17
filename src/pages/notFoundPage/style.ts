@@ -25,6 +25,10 @@ const styles = {
   `,
   Text: styled.p`
     color: white;
+
+    // display: flex;
+    // justify-content: center;
+    // align-items: center;
   `,
   Link: styled(Link)`
     color: white;
@@ -41,8 +45,6 @@ const styles = {
 
     width: 250px;
     height: 30px;
-
-    margin-top: 100px;
   `,
 };
 
